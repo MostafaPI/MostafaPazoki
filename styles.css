@@ -24,7 +24,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #bd5d38;
+  --primary: #007bff;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -64,8 +64,8 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #007bff;
-/*   color: #212529; */
+/*   color: #007bff; */
+  color: #212529;
   text-align: left;
   background-color: #fff;
 }
