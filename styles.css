@@ -485,7 +485,7 @@ mark,
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
-  border: 1px solid #dee2e6;
+  border: 0.5px solid #dee2e6;
   border-radius: 0.25rem;
   max-width: 100%;
   height: auto;
@@ -4414,7 +4414,7 @@ input[type=button].btn-block {
   right: 0;
   bottom: 0;
   left: 0;
-  padding: 1.25rem;
+  padding: 1.00rem;
   border-radius: calc(0.25rem - 1px);
 }
 
